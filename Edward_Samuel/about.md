@@ -1,0 +1,1 @@
+B.Tech 3rd-year AIDS student at CIT , Passionate about AI, Full Stack, and Cloud , Building solutions in ML, CV, and Web Dev , Exploring EdTech & Tourism innovations , Open to collaborations!
