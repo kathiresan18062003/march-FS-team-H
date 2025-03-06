@@ -2,6 +2,7 @@
 print("Hello, World!")
 
 # Taking user input
-name = input("Enter your name: ")
+name = "sammu "
 print(f"Hello, {name}! Welcome to Python.")
-print("im sambu from othakalman")
+
+#
