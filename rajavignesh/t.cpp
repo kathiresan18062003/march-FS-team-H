@@ -1,7 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    cout <<"hello world"<<endl;
-    //changes   
-    //
+    cout <<"hello Raju bhai!!!"<<endl;
 }
