@@ -2,7 +2,7 @@
 print("Hello, World!")
 
 # Taking user input
-name = "sammu "
+name = "Raju Bhai !!!"
 print(f"Hello, {name}! Welcome to Python.")
 
 #
